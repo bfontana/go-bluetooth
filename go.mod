@@ -1,4 +1,4 @@
-module github.com/muka/go-bluetooth
+module github.com/bfontana/go-bluetooth
 
 go 1.20
 
