@@ -7,10 +7,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/muka/go-bluetooth/gen"
-	"github.com/muka/go-bluetooth/gen/filters"
-	"github.com/muka/go-bluetooth/gen/generator"
-	"github.com/muka/go-bluetooth/gen/util"
+	"github.com/bfontana/go-bluetooth/gen"
+	"github.com/bfontana/go-bluetooth/gen/filters"
+	"github.com/bfontana/go-bluetooth/gen/generator"
+	"github.com/bfontana/go-bluetooth/gen/util"
 	log "github.com/sirupsen/logrus"
 )
 

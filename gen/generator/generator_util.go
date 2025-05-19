@@ -5,7 +5,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/muka/go-bluetooth/gen/types"
+	"github.com/bfontana/go-bluetooth/gen/types"
 )
 
 //go:embed tpl/*.tpl

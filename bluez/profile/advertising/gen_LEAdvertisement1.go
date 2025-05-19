@@ -6,9 +6,9 @@ import (
 	"sync"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/props"
-	"github.com/muka/go-bluetooth/util"
+	"github.com/bfontana/go-bluetooth/bluez"
+	"github.com/bfontana/go-bluetooth/props"
+	"github.com/bfontana/go-bluetooth/util"
 )
 
 var LEAdvertisement1Interface = "org.bluez.LEAdvertisement1"
